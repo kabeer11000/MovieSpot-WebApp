@@ -27,7 +27,7 @@ pip install -r requirements.txt
 - Run django migrations
 
 ```bash
-pyhton manage.py makemigrations
+python manage.py makemigrations
 python manage.py migrate
 ```
 
